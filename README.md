@@ -14,7 +14,7 @@ I am a **Software Developer and Visual Artist** with a deep passion for building
 ### 🚀 What I'm Up To
 
 - 🔭 **I’m currently working on:** Optimizing backend workflows and custom automation scripts.
-- 🌱 **I’m currently learning:** Advanced Deep Learning architectures and Go/Rust for system programming.
+- 🌱 **I’m currently learning:** Get deep in backend and learning more and more about it.
 - 👯 **I’m looking to collaborate on:** Open-source Linux tools or innovative Web/AI projects.
 - 💬 **Ask me about:** Backend architecture, UI/UX design, or how to "rice" a Linux desktop.
 - 🎨 **Fun fact:** I believe coding is just another form of art; logic is my canvas.
