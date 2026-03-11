@@ -26,8 +26,6 @@ I am a **Software Developer and Visual Artist** with a deep passion for building
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bilalElGohary&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-
 ![](https://nirzak-streak-stats.vercel.app/?user=bilalElGohary&theme=dark&hide_border=true)
 
 ---
