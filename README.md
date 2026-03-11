@@ -4,10 +4,10 @@ I am a 16-year-old developer & artist. Focuses on building solid Backends and cr
 
 ### 🛠️ Technical Stack & Expertise
 
-    Backend Development: Focused on building efficient server-side logic and system optimization. Currently sharpening skills in scalable architecture.
-    UI/UX Design: Crafting intuitive and visually clean interfaces. Merging my artistic background with technical precision.
-    Exploring Tech: Diving into Machine Learning & AI to understand neural networks and data models from the ground up.
-    Environment: Linux enthusiast (Arch-based), Neovim user, and addicted to customizing Tiled Window Managers (Ricing)
+* **Backend Development:** Focused on building efficient server-side logic and system optimization. Currently sharpening skills in scalable architecture.
+* **UI/UX Design:** Crafting intuitive and visually clean interfaces. Merging my artistic background with technical precision.
+* **Exploring Tech:** Diving into Machine Learning & AI to understand neural networks and data models from the ground up.
+* **Environment:** Linux enthusiast (Arch-based), Neovim user, and addicted to customizing Tiled Window Managers (Ricing)
 
 ---
 
