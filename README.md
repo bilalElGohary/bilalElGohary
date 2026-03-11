@@ -24,7 +24,7 @@ I am a 16-year-old developer & artist. Focuses on building solid Backends and cr
 
 ---
 
-### 📊 My Workspace
+### ⚙️ My Workspace
 
 <p align="center">
   <img src="./2026-02-19-055253_hyprshot.png" width="100%"/>
