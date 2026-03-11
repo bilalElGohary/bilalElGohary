@@ -2,7 +2,7 @@
 
 I am a 16-year-old developer & artist. Focuses on building solid Backends and crafting intuitive UI/UX designs. Currently diving into fundamentals of FrontEnd and Linux Ricing and exploring the world of AI
 
-### 🛠️ Technical Stack & Expertise
+### 🛠️ Expertise
 
 * **Backend Development:** Focused on building efficient server-side logic and system optimization. Currently sharpening skills in scalable architecture.
 * **UI/UX Design:** Crafting intuitive and visually clean interfaces. Merging my artistic background with technical precision.
@@ -24,9 +24,9 @@ I am a 16-year-old developer & artist. Focuses on building solid Backends and cr
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bilalElGohary&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=bilalElGohary&theme=dark&hide_border=true)
+# 📊 My Workspace
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bilalElGohary&icon=0&color=12)](https://visitcount.itsvg.in)
