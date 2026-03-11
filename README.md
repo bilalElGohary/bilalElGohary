@@ -16,9 +16,6 @@ I am a **Software Developer and Visual Artist** with a deep passion for building
 
 ---
 
-### 🎨 Design Philosophy
-My work is inspired by the **Gruvbox** color palette—prioritizing clarity, comfort, and a retro-modern aesthetic in both my code and my art.
-
 ### 📬 Connect with me
 - 🌐 ____________
 - 📧 bilalelgohary302@gmail.com
@@ -27,9 +24,9 @@ My work is inspired by the **Gruvbox** color palette—prioritizing clarity, com
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=bilalElGohary&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=bilalElGohary&theme=gruvbox&hide_border=false)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bilalElGohary&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bilalElGohary&theme=dark&hide_border=true)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bilalElGohary&icon=0&color=12)](https://visitcount.itsvg.in)
