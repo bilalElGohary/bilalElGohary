@@ -1,13 +1,13 @@
 # 👨‍💻 Hi there, I'm Bilal 👋
 
-I am a **Software Developer and Visual Artist** with a deep passion for building robust systems and crafting seamless user experiences. I bridge the gap between complex logic and elegant design.
+I am a 16-year-old developer & artist. Focuses on building solid Backends and crafting intuitive UI/UX designs. Currently diving into Linux Ricing and exploring the world of AI
 
 ### 🛠️ Technical Stack & Expertise
 
-* **Backend Development:** Building efficient, scalable server-side logic and system optimization.
-* **Frontend & UI/UX:** Designing and developing intuitive, high-performance interfaces with an eye for detail.
-* **AI & Machine Learning:** Foundational knowledge in **ML & Deep Learning**, exploring neural networks and data models.
-* **Environment:** Linux Power User (Arch-based) | Neovim | Customizing Tiled Window Managers.
+    Backend Development: Focused on building efficient server-side logic and system optimization. Currently sharpening skills in scalable architecture.
+    UI/UX Design: Crafting intuitive and visually clean interfaces. Merging my artistic background with technical precision.
+    Exploring Tech: Diving into Machine Learning & AI to understand neural networks and data models from the ground up.
+    Environment: Linux enthusiast (Arch-based), Neovim user, and addicted to customizing Tiled Window Managers (Ricing)
 
 ---
 
