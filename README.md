@@ -1,6 +1,6 @@
 # 👨‍💻 Hi there, I'm Bilal 👋
 
-I am a 16-year-old developer & artist. Focuses on building solid Backends and crafting intuitive UI/UX designs. Currently diving into fundamentals of FrontEnd and Linux Ricing and exploring the world of AI
+I am a 16-year-old developer & artist. Focuses on building solid Backends and crafting intuitive UI/UX designs. Currently diving into fundamentals of FrontEnd and Linux Ricing and exploring the world of AI.
 
 ### 🛠️ Expertise
 
