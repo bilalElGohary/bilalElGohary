@@ -20,6 +20,6 @@ I am a 16-year-old developer & artist. Focuses on building solid Backends and cr
 - 🌐 ____________
 - 📧 bilalelgohary302@gmail.com
 - 💼 ____________
-- 💡 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yarub_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Professional_Tie2390) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BilalElgohary) 
+- 💡 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/banana_artist.rpm) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Professional_Tie2390) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BilalElgohary) 
 
 ---
