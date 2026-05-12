@@ -1,13 +1,12 @@
 # Hi there, I'm Bilal
 
-I am a 16-year-old developer & artist. Focuses on building solid Backends and crafting intuitive UI/UX designs. Currently diving into fundamentals of FrontEnd and Linux Ricing and exploring the world of AI. 
+I am a developer & artist. i had some solid base at front-end dev, and some basic knowlage about ai, and at that time im deep into back-end dev.  
 
 ### Expertise
 
-* **Backend Development:** Focused on building efficient server-side logic and system optimization. Currently sharpening skills in scalable architecture.
-* **UI/UX Design:** Crafting intuitive and visually clean interfaces. Merging my artistic background with technical precision.
-* **Exploring Tech:** Diving into Machine Learning & AI to understand neural networks and data models from the ground up.
-* **Environment:** Linux enthusiast (Arch-based), Neovim user, and addicted to customizing Tiled Window Managers (Ricing)
+* **Backend Development:** Still learning.
+* **Exploring Tech:** Machine Learning & Deep Learning (basic knowlage).
+* **Environment:** Linux User, and addicted to customizing WM (ricing) like hyprland.
 
 
 
@@ -17,9 +16,7 @@ I am a 16-year-old developer & artist. Focuses on building solid Backends and cr
 
 
 ### Connect with me
--  ____________
 -  bilalelgohary302@gmail.com
--  ____________
 -  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/banana_artist.rpm) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Professional_Tie2390) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BilalElgohary) 
 
 
