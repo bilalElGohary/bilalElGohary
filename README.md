@@ -5,7 +5,7 @@ I am a developer & artist. i had some solid base at front-end dev, and some basi
 ### Expertise
 
 * **Backend Development:** Still learning.
-* **Exploring Tech:** Machine Learning & Deep Learning (basic knowlage).
+* **Exploring Tech:** Machine Learning & Deep Learning (basic knowlage) & Solid base at front-end dev.
 * **Environment:** Linux User, and addicted to customizing WM (ricing) like hyprland.
 
 
