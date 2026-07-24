@@ -1,18 +1,16 @@
-<svg width="100%" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="100%" viewBox="0 0 680 260" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>terminal banner</title>
   
-  <!-- Background -->
-  <rect width="680" height="190" rx="8" fill="#050505"/>
+  <!-- Background (Same color, extended height) -->
+  <rect width="680" height="260" rx="8" fill="#050505"/>
   
-  <!-- Header Title -->
-  <!-- <text x="340" y="26" text-anchor="middle" font-family="monospace" font-size="11" fill="#555555">~/bilalElGohary/README.md</text> -->
-  <!-- <line x1="0" y1="38" x2="680" y2="38" stroke="#1c1c1c" stroke-width="1"/> -->
-
-  <text x="30" y="68" font-family="monospace" font-size="13" fill="#888888">$</text>
-  <text x="46" y="68" font-family="monospace" font-size="13" fill="#ffffff">Expertise</text>
+  <!-- Command Prompt -->
+  <text x="30" y="55" font-family="monospace" font-size="13" fill="#888888">$</text>
+  <text x="46" y="55" font-family="monospace" font-size="13" fill="#ffffff">Expertise</text>
   
-  <text x="30" y="128" font-family="monospace" font-size="12" fill="#666666"># CyberSecurity : Still learning</text>
-  <text x="30" y="148" font-family="monospace" font-size="12" fill="#666666"># Exploring Tech : Machine Learning & Deep Learning (basic knowlage) & Solid base at front-end dev.</text>
-  <text x="30" y="168" font-family="monospace" font-size="12" fill="#666666"># Environment : Linux User, and addicted to customizing WM (ricing) like hyprland.</text>
+  <!-- Info Comments (Original colors & layout) -->
+  <text x="30" y="105" font-family="monospace" font-size="12" fill="#666666"># CyberSecurity : Still learning</text>
+  <text x="30" y="145" font-family="monospace" font-size="12" fill="#666666"># Exploring Tech : Machine Learning &amp; Deep Learning (basic knowlage) &amp; Solid base at front-end dev.</text>
+  <text x="30" y="185" font-family="monospace" font-size="12" fill="#666666"># Environment : Linux User, and addicted to customizing WM (ricing) like hyprland.</text>
 
 </svg>
