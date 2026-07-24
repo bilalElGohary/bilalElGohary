@@ -2,7 +2,7 @@
   <title>terminal banner</title>
   
   <!-- Background -->
-  <rect width="680" height="135" rx="8" fill="#050505"/>
+  <rect width="680" height="145" rx="8" fill="#050505"/>
   
   <!-- Command Prompt -->
   <text x="30" y="45" font-family="monospace" font-size="13" fill="#888888">$</text>
