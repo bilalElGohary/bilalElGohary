@@ -8,12 +8,12 @@
   <img src="./expertise.svg" alt="Expertise Banner" width="100%">
 </p>
 
-* **CyberSecurity:** Still learning.
-* **Exploring Tech:** Machine Learning & Deep Learning (basic knowlage) & Solid base at front-end dev.
-* **Environment:** Linux User, and addicted to customizing WM (ricing) like hyprland.
-
-
 # $ Tech Stack
+
+<p align="center">
+  <img src="./techstack.svg" alt="Tech Stack Banner" width="100%">
+</p>
+
 * **Tools & Environments :** ```
   `NixOS` • `Linux` • `GitHub` • `Git`• `Figma` • `Gimp` • `Hyprland` • `Vim` • `Fish` • `Alacritty` ```
 
