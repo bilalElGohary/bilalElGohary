@@ -4,7 +4,9 @@
 
 # $ Expertise
 
-![Expertise](./expertise.svg)
+<p align="center">
+  <img src="./expertise.svg" alt="Expertise Banner" width="100%">
+</p>
 
 * **CyberSecurity:** Still learning.
 * **Exploring Tech:** Machine Learning & Deep Learning (basic knowlage) & Solid base at front-end dev.
