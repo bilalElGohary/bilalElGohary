@@ -11,7 +11,7 @@
 # $ Tech Stack
 
 <p align="center">
-  <img src="./techstack.svg" alt="Tech Stack Banner" width="100%">
+  <img src="techstack.svg" alt="Tech Stack Banner" width="100%">
 </p>
 
 * **Tools & Environments :** ```
