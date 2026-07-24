@@ -45,7 +45,7 @@
 
   <!-- Info Comments -->
   <text x="30" y="128" font-family="monospace" font-size="12" fill="#666666"># https://github.com/bilalElGohary</text>
-  <text x="30" y="148" font-family="monospace" font-size="12" fill="#666666"># I am a developer &amp; artist. i had some solid base at front-end dev...</text>
+  <text x="30" y="148" font-family="monospace" font-size="12" fill="#666666"># I am a developer &amp; artist. i had some solid base at front-end dev, and some basic knowlage about ai, and at that time im deep into cybersecurity.</text>
 
   <!-- Terminal Cursor -->
   <rect class="cursor" x="520" y="137" width="7" height="13" fill="#ffffff"/>
