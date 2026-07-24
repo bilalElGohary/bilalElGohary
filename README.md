@@ -8,17 +8,11 @@
   <img src="./expertise.svg" alt="Expertise Banner" width="100%">
 </p>
 
-
 # $ Tech Stack
 
-<svg width="100%" viewBox="0 0 680 140" xmlns="http://www.w3.org/2000/svg" role="img">
-  <title>Tech Stack Banner</title>
-  <rect width="680" height="140" rx="8" fill="#050505"/>
-  <text x="30" y="38" font-family="monospace" font-size="12" font-weight="bold" fill="#888888"># Tools &amp; Environments :</text>
-  <text x="30" y="60" font-family="monospace" font-size="11" fill="#666666">NixOS • Linux • GitHub • Git • Figma • Gimp • Hyprland • Vim • Fish • Alacritty</text>
-  <text x="30" y="92" font-family="monospace" font-size="12" font-weight="bold" fill="#888888"># Languages &amp; Libraries :</text>
-  <text x="30" y="114" font-family="monospace" font-size="11" fill="#666666">Nix • JavaScript • CSS3 • HTML5 • Python • C++ • TensorFlow • NumPy • Testing-Library</text>
-</svg>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bilalElGohary/bilalElGohary/main/techstack.svg" alt="Tech Stack Banner" width="100%">
+</p>
 
 * **Tools & Environments :** ```
   `NixOS` • `Linux` • `GitHub` • `Git`• `Figma` • `Gimp` • `Hyprland` • `Vim` • `Fish` • `Alacritty` ```
