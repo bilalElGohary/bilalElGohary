@@ -3,6 +3,12 @@
 </div>
 
 # $ Expertise
+
+<div align="center">
+  <img src="Expertise.svg" width="100%" alt="bilalElGohary"/>
+</div>
+
+
 * **CyberSecurity:** Still learning.
 * **Exploring Tech:** Machine Learning & Deep Learning (basic knowlage) & Solid base at front-end dev.
 * **Environment:** Linux User, and addicted to customizing WM (ricing) like hyprland.
