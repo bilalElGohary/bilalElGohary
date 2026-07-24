@@ -9,9 +9,10 @@
 
 
 ### Tech Stack
-
+```
 * **Tools & Environments :**
   `NixOS` • `Linux` • `GitHub` • `Git`• `Figma` • `Gimp` • `Hyprland` • `Vim` • `Fish` • `Alacritty`
 
 * **Languages & libraries :**
   `Nix` • `JavaScript` • `CSS3` • `HTML5` • `TensorFlow` • `Python` • `NumPy` • `C++` • `Testing-Library`
+```
