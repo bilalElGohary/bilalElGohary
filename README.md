@@ -9,10 +9,10 @@
 
 
 # Tech Stack
-**Nix**                     **Gimp** 
-**JavaScript**              **Figma**
-**CSS3**                    **TensorFlow**
-**HTML5**                   **NumPy**
-**Python**                  **Git**
-**GitHub**                  **MySQL**
-**Testing-Library**
+Nix                     Gimp
+JavaScript              Figma
+CSS3                    TensorFlow
+HTML5                   NumPy
+Python                  Git
+GitHub                  MySQL
+Testing-Library
