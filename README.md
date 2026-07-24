@@ -1,8 +1,6 @@
 <div align="center">
   <img src="header.svg" width="100%" alt="MohssineX"/>
 </div>
-
-# Hi there, I'm Bilal
 I am a developer & artist. i had some solid base at front-end dev, and some basic knowlage about ai, and at that time im deep into cybersecurity.  
 
 
