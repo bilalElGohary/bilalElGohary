@@ -1,9 +1,9 @@
 # Hi there, I'm Bilal
-I am a developer & artist. i had some solid base at front-end dev, and some basic knowlage about ai, and at that time im deep into back-end dev.  
+I am a developer & artist. i had some solid base at front-end dev, and some basic knowlage about ai, and at that time im deep into cybersecurity.  
 
 
 ### Expertise
-* **Backend Development:** Still learning.
+* **CyberSecurity:** Still learning.
 * **Exploring Tech:** Machine Learning & Deep Learning (basic knowlage) & Solid base at front-end dev.
 * **Environment:** Linux User, and addicted to customizing WM (ricing) like hyprland.
 
