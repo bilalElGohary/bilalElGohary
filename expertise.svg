@@ -1,16 +1,10 @@
-<svg width="100%" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="100%" viewBox="0 0 680 115" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>terminal banner</title>
   
-  <!-- Background -->
-  <rect width="680" height="145" rx="8" fill="#050505"/>
+  <rect width="680" height="115" rx="8" fill="#050505"/>
   
-  <!-- Command Prompt -->
-  <text x="30" y="45" font-family="monospace" font-size="13" fill="#888888">$</text>
-  <text x="46" y="45" font-family="monospace" font-size="13" fill="#ffffff">Expertise</text>
-  
-  <!-- Info Comments (Tighter spacing) -->
-  <text x="30" y="80" font-family="monospace" font-size="12" fill="#666666"># CyberSecurity : Still learning</text>
-  <text x="30" y="105" font-family="monospace" font-size="12" fill="#666666"># Exploring Tech : Machine Learning &amp; Deep Learning (basic knowlage) &amp; Solid base at front-end dev.</text>
-  <text x="30" y="130" font-family="monospace" font-size="12" fill="#666666"># Environment : Linux User, and addicted to customizing WM (ricing) like hyprland.</text>
-
+  <text x="30" y="38" font-family="monospace" font-size="12" fill="#666666"># CyberSecurity : Still learning</text>
+  <text x="30" y="63" font-family="monospace" font-size="12" fill="#666666"># Exploring Tech : Machine Learning &amp; Deep Learning (basic knowlage) &amp; Solid base at front-end dev.</text>
+  <text x="30" y="88" font-family="monospace" font-size="12" fill="#666666"># Environment : Linux User, and addicted to customizing WM (ricing) like hyprland.</text>
 </svg>
+
