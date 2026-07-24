@@ -9,16 +9,10 @@
 
 
 # Tech Stack
-* **Nix**
-* **JavaScript**
-* **CSS3**
-* **HTML5**
-* **Python**
-* **MySQL**
-* **Gimp** 
-* **Figma**
-* **TensorFlow :** https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-* ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-* ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+* **Nix**                     * **Gimp** 
+* **JavaScript**              * **Figma**
+* **CSS3**                    * **TensorFlow**
+* **HTML5**                   * **NumPy**
+* **Python**                  * **Git**
+* **GitHub**                  * **MySQL**
+* **Testing-Library**
