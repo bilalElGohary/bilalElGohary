@@ -1,4 +1,4 @@
-     # Who-Am-I
+# Who-Am-I
      ```
      [bilal@arch ~]$ info -la
      username : 'BilalElGohary'
@@ -12,7 +12,7 @@
      country : 'Egypt/XXXX'
      link : 'https://github.com/bilalElGohary'
      ```
-     # Expertise
+# Expertise
      ```
      [bilal@arch ~]$ expertise -a
      gameDEV : Still learning.
@@ -20,7 +20,7 @@
      Networking(Foundmentals), Linux Admin.
      environment : Linux User, and addicted to customizing WM (ricing)
      ```
-     # Tech-Stack
+# Tech-Stack
      ```
      [bilal@arch ~]$ tools-environments
      • NixOS • Linux • GitHub • Git • Figma • Gimp • Hyprland • Vim • Fish • Alacritty •
