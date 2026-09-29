@@ -1,16 +1,31 @@
-## Hi there 👋
+     # Who-Am-I
+     ```
+     [bilal@arch ~]$ info -la
+     username : 'BilalElGohary'
+     age : '1X'
+     height : '1XX'
+     religion: 'XXXXX'
+     sex : 'male'
 
-<!--
-**bilalElGohary/bilalElGohary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     email : 'bilalXXXXXX@gmail.com'
+     password : 'XXXXXXX'
+     country : 'Egypt/XXXX'
+     link : 'https://github.com/bilalElGohary'
+     ```
+     # Expertise
+     ```
+     [bilal@arch ~]$ expertise -a
+     gameDEV : Still learning.
+     exploring Tech : Machine Learning, Deep Learning (Foundmentals), Solid base at front-end,
+     Networking(Foundmentals), Linux Admin.
+     environment : Linux User, and addicted to customizing WM (ricing)
+     ```
+     # Tech-Stack
+     ```
+     [bilal@arch ~]$ tools-environments
+     • NixOS • Linux • GitHub • Git • Figma • Gimp • Hyprland • Vim • Fish • Alacritty •
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     [bilal@arch ~]$ languages-libraries
+     • Nix • JavaScript • CSS3 • HTML5 • Python • C++ • TensorFlow • NumPy • Testing-Library •
+     • C# • Gcc • Gdb • Gpp • Unity • Dart •
+     ```
